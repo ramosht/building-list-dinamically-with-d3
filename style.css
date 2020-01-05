@@ -1,0 +1,11 @@
+.users {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.users .user {
+  margin-bottom: 1rem;
+}
+.users .user-info {
+  display: block;
+}
